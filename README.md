@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Digambar Gadade@cohezia
+# Hi there! 👋 I'm Digambar Gadade@cohezia.com
 
 ## DevOps Engineer | AWS | Docker | Kubernetes
 
